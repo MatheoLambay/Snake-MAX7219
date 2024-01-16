@@ -1,0 +1,2 @@
+class SpaceInvader:
+    pass
